@@ -1,0 +1,6 @@
+Flask
+requests
+psutil
+numpy
+pyaes
+rsa
